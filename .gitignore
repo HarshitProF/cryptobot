@@ -1,0 +1,5 @@
+__pycache__/
+venv/
+run.py
+bot.__pycache__/
+db.__pycache__/
